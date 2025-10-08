@@ -232,3 +232,4 @@ $RECYCLE.BIN/
 
 #custom ignore
 /data
+/OpenPCDet/output
